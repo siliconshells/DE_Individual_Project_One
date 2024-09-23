@@ -1,0 +1,6 @@
+__pycache__/
+mylib/__pycache__/
+actions
+.pytest_cache
+.DS_Store
+.ruff_cache
