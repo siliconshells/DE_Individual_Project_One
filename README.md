@@ -1,7 +1,7 @@
-[![Format](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/format.yml)
-[![Test](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/test.yml)
-[![Lint](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/lint.yml)
-[![Install](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Individual_Project_One/actions/workflows/install.yml)
+[![Format](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/format.yml/badge.svg)](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/format.yml)
+[![Test](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/test.yml/badge.svg)](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/test.yml)
+[![Lint](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/lint.yml/badge.svg)](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/lint.yml)
+[![Install](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/install.yml/badge.svg)](https://github.com/siliconshells/DE_Individual_Project_One/actions/workflows/install.yml)
 
 
 ## Data Engineering Individual Project One (also fulfilling Miniproject Two)
